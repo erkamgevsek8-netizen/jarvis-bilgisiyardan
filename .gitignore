@@ -1,0 +1,17 @@
+# API Anahtarları - ASLA COMMITLEME!
+.env
+.env.local
+.env.production
+
+# Node
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+
+# Sistem
+.DS_Store
+Thumbs.db
+*.log
